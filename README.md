@@ -1,8 +1,8 @@
-# CreditEngine — Marketplace P2P de Crédito com Leilão Reverso (Uniform-Price)
+# CreditForge — Marketplace P2P de Crédito com Leilão Reverso (Uniform-Price)
 
-[![Release](https://img.shields.io/github/v/release/gmhschn/CreditEngine?include_prereleases)](https://github.com/gmhschn/CreditEngine/releases)
-[![Downloads](https://img.shields.io/github/downloads/gmhschn/CreditEngine/total)](https://github.com/gmhschn/CreditEngine/releases)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/gustavomhss/CreditForge?include_prereleases)](https://github.com/gustavomhss/CreditForge/releases)
+[![Downloads](https://img.shields.io/github/downloads/gustavomhss/CreditForge/total)](https://github.com/gustavomhss/CreditForge/releases)
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 ![Status](https://img.shields.io/badge/status-active-success)
 
 > **O que é**: Marketplace P2P onde tomadores abrem leilões de crédito e investidores competem com ofertas; o clearing é **preço único (uniform-price)**.
@@ -12,8 +12,8 @@
 
 ## 📦 Release atual (canônico)
 - **Tag estável:** `vA3.1.11`
-- **Página do release:** https://github.com/gmhschn/CreditEngine/releases/tag/vA3.1.11
-- **ZIP do tag:** https://github.com/gmhschn/CreditEngine/archive/refs/tags/vA3.1.11.zip
+- **Página do release:** https://github.com/gustavomhss/CreditForge/releases/tag/vA3.1.11
+- **ZIP do tag:** https://github.com/gustavomhss/CreditForge/archive/refs/tags/vA3.1.11.zip
 
 > Sempre compartilhe a **página do release**: notas, assets e link estável para download.
 
@@ -47,7 +47,7 @@
 ---
 
 ## 🔎 Visão Geral
-O **CreditEngine** permite que **Tomadores** criem leilões (Auction) definindo valor, prazo e garantias. **Investidores** propõem **ofertas** (Offer) com juros e condições. O leilão liquida em **preço único**, priorizando melhor taxa até preencher o montante.
+O **CreditForge** permite que **Tomadores** criem leilões (Auction) definindo valor, prazo e garantias. **Investidores** propõem **ofertas** (Offer) com juros e condições. O leilão liquida em **preço único**, priorizando melhor taxa até preencher o montante.
 
 **Pilares**
 - Leilão reverso (uniform-price) com regras anti-manipulação.
@@ -93,8 +93,8 @@ O **CreditEngine** permite que **Tomadores** criem leilões (Auction) definindo 
 
 ## 🚀 Quickstart
 ~~~bash
-git clone https://github.com/gmhschn/CreditEngine.git
-cd CreditEngine
+git clone https://github.com/gustavomhss/CreditForge.git
+cd CreditForge
 git checkout tags/vA3.1.11
 npm i && npm run dev
 ~~~
@@ -301,12 +301,12 @@ Página: `.../releases/tag/<TAG>` · ZIP: `.../archive/refs/tags/<TAG>.zip`
 ---
 
 ## 🔗 Links úteis
-- Releases: https://github.com/gmhschn/CreditEngine/releases  
-- ZIP (tag atual): https://github.com/gmhschn/CreditEngine/archive/refs/tags/vA3.1.11.zip  
+- Releases: https://github.com/gustavomhss/CreditForge/releases  
+- ZIP (tag atual): https://github.com/gustavomhss/CreditForge/archive/refs/tags/vA3.1.11.zip  
 - Changelog: `CHANGELOG.md`
 
 ---
 
 ## 👤 Créditos & Licença
 Maintainer: **Gustavo Schneiter**  
-Licença: **MIT** (veja `LICENSE`).
+Licença: **Proprietária — All Rights Reserved** (veja `LICENSE`).
