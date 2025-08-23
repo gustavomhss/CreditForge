@@ -15,4 +15,4 @@
 ### Security
 - Sem alterações nesta versão.
 
-**Full Changelog**: https://github.com/gmhschn/CreditEngine/compare/vA3.1.11^...vA3.1.11
+**Full Changelog**: https://github.com/gustavomhss/CreditForge/compare/vA3.1.11^...vA3.1.11
