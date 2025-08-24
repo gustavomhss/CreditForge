@@ -1,0 +1,12 @@
+# Glossário (v0.1)
+- CreditEngine$ (CE$): token ERC-20 emitido/queimado contra reservas auditáveis.
+- AuctionManager: contrato que conduz leilão reverso preço único e cria LoanVault.
+- LoanVault: escrow do empréstimo; calcula juros e repassa pro-rata aos credores.
+- Uniform-Price Auction: todos os credores preenchidos recebem a taxa de clearing.
+- Clearing Rate: menor taxa que completa o montante do pedido.
+- LoanNFT: (opcional) representação fracionária da posição do credor.
+- LTV (Loan-to-Value): razão empréstimo/colateral (bps).
+- TWAP: preço médio ponderado por tempo para suavizar volatilidade.
+- Circuit Breaker: política que pausa swaps/liquidações sob estresse.
+- Risk Hash: hash do pacote de risco (rating externo + score interno) ancorado on-chain.
+- DPD: dias de atraso (1/15/30/60/90).

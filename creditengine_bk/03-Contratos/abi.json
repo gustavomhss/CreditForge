@@ -1,0 +1,35 @@
+{
+  "CreditEngineToken": {
+    "interfaces": [
+      "mintAgainstReserve(address,uint256)",
+      "burnAgainstReserve(address,uint256)",
+      "updateProof(bytes32)"
+    ]
+  },
+  "AuctionManager": {
+    "interfaces": [
+      "createAuction(uint256,uint256,uint256,bytes32) returns (uint256)",
+      "bid(uint256,uint256,uint256)",
+      "clear(uint256)"
+    ]
+  },
+  "LoanVault": {
+    "interfaces": [
+      "drawdown(address)",
+      "repay(uint256)",
+      "getAccrued() view returns (uint256)"
+    ]
+  },
+  "RiskRegistry": {
+    "interfaces": [
+      "anchor(bytes32,bytes32,uint64)",
+      "get(bytes32) view returns (bytes32,uint64)"
+    ]
+  },
+  "PaymentRouter": {
+    "interfaces": [
+      "createFiatOrder(bytes32,uint256,bytes32)",
+      "ackFiatEvent(bytes32,bytes)"
+    ]
+  }
+}

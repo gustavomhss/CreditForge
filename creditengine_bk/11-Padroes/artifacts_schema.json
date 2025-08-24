@@ -1,0 +1,52 @@
+{
+  "type": "object",
+  "required": [
+    "protocol",
+    "tokenomics",
+    "risk_oracle",
+    "banking",
+    "security",
+    "ux"
+  ],
+  "properties": {
+    "protocol": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "tokenomics": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "risk_oracle": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "banking": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "security": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "ux": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "notes": {
+      "type": "string"
+    }
+  }
+}

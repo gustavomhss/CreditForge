@@ -1,0 +1,50 @@
+{
+  "CREDIT_CONFIRMED": {
+    "event_type": "CREDIT_CONFIRMED",
+    "event_id": "uuid",
+    "occurred_at": "ISO-8601",
+    "idempotency_key": "uuid",
+    "signature": "base64",
+    "account_ref": "string",
+    "currency": "BRL",
+    "amount": 1000000,
+    "narrative": "PIX from John Doe",
+    "metadata": {
+      "tx_ref": "abc",
+      "customer_id": "u123",
+      "bank_code": "001"
+    }
+  },
+  "DEBIT_SETTLED": {
+    "event_type": "DEBIT_SETTLED",
+    "event_id": "uuid",
+    "occurred_at": "ISO-8601",
+    "idempotency_key": "uuid",
+    "signature": "base64",
+    "account_ref": "string",
+    "currency": "BRL",
+    "amount": 1000000,
+    "narrative": "Loan disbursement",
+    "metadata": {
+      "tx_ref": "def",
+      "customer_id": "b456",
+      "bank_code": "001"
+    }
+  },
+  "REVERSAL": {
+    "event_type": "REVERSAL",
+    "event_id": "uuid",
+    "occurred_at": "ISO-8601",
+    "idempotency_key": "uuid",
+    "signature": "base64",
+    "account_ref": "string",
+    "currency": "BRL",
+    "amount": 1000000,
+    "narrative": "Chargeback",
+    "metadata": {
+      "tx_ref": "ghi",
+      "customer_id": "u123",
+      "reason": "R01"
+    }
+  }
+}

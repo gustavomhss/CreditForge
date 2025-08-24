@@ -1,0 +1,6 @@
+# Eventos (v0.1)
+- CreditEngineToken: ReserveMinted(owner, amount); ReserveBurned(owner, amount); ProofOfReservesUpdated(root, ts)
+- AuctionManager: AuctionCreated(id, amount, maxRateBps, tenorDays, riskHash); BidPlaced(id, bidder, amount, rateBps); AuctionCleared(id, clearingBps); LoanVaultCreated(id, vault)
+- LoanVault: Drawdown(id, borrower, amount); Repayment(id, payer, amount, interest, principal); LateNotice(id, dpd); LiquidationTriggered(id, reason)
+- RiskRegistry: RiskAnchored(entity, riskHash, provider, expiresAt)
+- PaymentRouter: FiatOrderCreated(ref, type, amount, currency); FiatEvent(ref, status, meta)

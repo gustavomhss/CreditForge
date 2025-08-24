@@ -1,0 +1,21 @@
+{
+  "entity_id": "string",
+  "provider": "COFACE|EULER_HERMES|OTHER",
+  "external_rating": "e.g., A-, BB+",
+  "last_update": "ISO-8601",
+  "expires_at": "ISO-8601",
+  "internal_score": {
+    "type": "integer",
+    "min": 0,
+    "max": 1000
+  },
+  "dpd_history": {
+    "type": "array",
+    "items": "integer"
+  },
+  "limits": {
+    "max_rate_bps": "int",
+    "max_tenor_days": "int",
+    "min_ticket": "int"
+  }
+}

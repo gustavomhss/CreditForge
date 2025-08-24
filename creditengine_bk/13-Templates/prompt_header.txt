@@ -1,0 +1,11 @@
+[CONTEXT]
+(Resumo + links da BK)
+
+[ARTEFATOS_ANTES]
+(Cole trechos/arquivos relevantes)
+
+[PEDIDO]
+(Ex.: "Gerar ABIs e eventos para AuctionManager/LoanVault...")
+
+[FORMATO_DE_SAÍDA]
+(Lista de arquivos/nome exato + estrutura JSON `artifacts`)

@@ -1,0 +1,13 @@
+{
+  "currency_default": "BRL",
+  "platform_fee_bps_annual": 75,
+  "origination_fee_bps": 200,
+  "max_rate_bps": 2200,
+  "tenor_days_max": 540,
+  "min_ticket": 10000,
+  "ltv_max_bps": 6000,
+  "liq_bonus_bps": 500,
+  "twap_window_seconds": 900,
+  "mora_bps_daily": 5,
+  "pool_protecao_fee_bps_annual": 150
+}

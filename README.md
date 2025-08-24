@@ -310,3 +310,13 @@ Página: `.../releases/tag/<TAG>` · ZIP: `.../archive/refs/tags/<TAG>.zip`
 ## 👤 Créditos & Licença
 Maintainer: **Gustavo Schneiter**  
 Licença: **Proprietária — All Rights Reserved** (veja `LICENSE`).
+
+## Referências canônicas (para os agentes)
+
+- **Master KB (start here):** docs/sanity_check_report-2.md
+- **KB Index:** docs/KB_INDEX.md
+- **Roadmap:** docs/roadmap.md
+- **Decision Log:** decision_log.md
+- **ADRs:** adr/
+- **CHANGELOG:** CHANGELOG.md
+
