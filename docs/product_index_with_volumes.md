@@ -1,0 +1,362 @@
+# Índice de Produtos (com volumes de mercado)
+
+**Base temporal**: jun/2025. 
+**Metodologia**: números consolidados de fontes oficiais (B3, ANBIMA, BCB). Para subtipos dentro de uma mesma classe (ex.: CDB Pós/Prefixado), usamos o **estoque da classe** registrada na fonte; para contas bancárias, usamos **depósitos à vista (M1)** como proxy.
+**Moeda**: R$ (corrente).
+
+- [Conta Corrente PF](Product_catalog.md#conta-corrente-pf) — Volume de mercado: R$ 633,5 bilhões — depósitos à vista (M1) (BCB, jun/2025)
+- [Conta Corrente PJ](Product_catalog.md#conta-corrente-pj) — Volume de mercado: R$ 633,5 bilhões — depósitos à vista (M1) (BCB, jun/2025)
+- [Conta Salário](Product_catalog.md#conta-salario) — Volume de mercado: R$ 633,5 bilhões — depósitos à vista (M1) (BCB, jun/2025)
+- [Conta Universitária](Product_catalog.md#conta-universitaria) — Volume de mercado: R$ 633,5 bilhões — depósitos à vista (M1) (BCB, jun/2025)
+- [Conta MEI](Product_catalog.md#conta-mei) — Volume de mercado: R$ 633,5 bilhões — depósitos à vista (M1) (BCB, jun/2025)
+- [Poupança](Product_catalog.md#poupanca) — Volume de mercado: R$ 956,9 bilhões (ANBIMA, jun/2025)
+- [CDB Pós‑CDI](Product_catalog.md#cdb-pos-cdi) — Volume de mercado: R$ 2,6 trilhões (B3, jun/2025)
+- [CDB Prefixado](Product_catalog.md#cdb-prefixado) — Volume de mercado: R$ 2,6 trilhões (B3, jun/2025)
+- [CDB Escalonado](Product_catalog.md#cdb-escalonado) — Volume de mercado: R$ 2,6 trilhões (B3, jun/2025)
+- [LCI](Product_catalog.md#lci) — Volume de mercado: R$ 454 bilhões (B3, jun/2025)
+- [LCA](Product_catalog.md#lca) — Volume de mercado: R$ 588 bilhões (B3, jun/2025)
+- [LC (Letra de Câmbio)](Product_catalog.md#lc-letra-de-cambio) — Volume de mercado: N/D
+- [LF (Letra Financeira)](Product_catalog.md#lf-letra-financeira) — Volume de mercado: R$ 890,5 bilhões (B3, jun/2025)
+- [Conta Pagamento (Carteira Digital)](Product_catalog.md#conta-pagamento-carteira-digital) — Volume de mercado: N/D
+- [PIX Transferência](Product_catalog.md#pix-transferencia) — Volume de mercado: ≈ R$ 16 trilhões (BCB, 1º sem/2025)
+- [PIX Cobrança (QR Dinâmico)](Product_catalog.md#pix-cobranca-qr-dinamico) — Volume de mercado: ≈ R$ 16 trilhões (BCB, 1º sem/2025)
+- [PIX Saque](Product_catalog.md#pix-saque) — Volume de mercado: ≈ R$ 16 trilhões (BCB, 1º sem/2025)
+- [PIX Troco](Product_catalog.md#pix-troco) — Volume de mercado: ≈ R$ 16 trilhões (BCB, 1º sem/2025)
+- [TED](Product_catalog.md#ted) — Volume de mercado: N/D
+- [SWIFT Internacional](Product_catalog.md#swift-internacional) — Volume de mercado: N/D
+- [Boleto – Emissão](Product_catalog.md#boleto-emissao) — Volume de mercado: N/D
+- [Boleto – Cobrança Registrada](Product_catalog.md#boleto-cobranca-registrada) — Volume de mercado: N/D
+- [Débito Automático](Product_catalog.md#debito-automatico) — Volume de mercado: N/D
+- [DDA (Débito Direto Autorizado)](Product_catalog.md#dda-debito-direto-autorizado) — Volume de mercado: N/D
+- [Agendamento de Pagamentos](Product_catalog.md#agendamento-de-pagamentos) — Volume de mercado: N/D
+- [Pagamento de Tributos](Product_catalog.md#pagamento-de-tributos) — Volume de mercado: N/D
+- [Tokenização Carteiras (Apple/Google Pay)](Product_catalog.md#tokenizacao-carteiras-applegoogle-pay) — Volume de mercado: N/D
+- [Link de Pagamento](Product_catalog.md#link-de-pagamento) — Volume de mercado: N/D
+- [Split de Pagamentos](Product_catalog.md#split-de-pagamentos) — Volume de mercado: N/D
+- [QR Code Estático Loja](Product_catalog.md#qr-code-estatico-loja) — Volume de mercado: N/D
+- [Gateway de Pagamentos](Product_catalog.md#gateway-de-pagamentos) — Volume de mercado: R$ 2,2 trilhões — e-commerce com cartões (ABECS, 1º sem/2025)
+- [Assinaturas/Recorrência](Product_catalog.md#assinaturasrecorrencia) — Volume de mercado: N/D
+- [Pagamento por Aproximação (NFC)](Product_catalog.md#pagamento-por-aproximacao-nfc) — Volume de mercado: N/D
+- [Portal de Cobranças PJ](Product_catalog.md#portal-de-cobrancas-pj) — Volume de mercado: N/D
+- [Cartão de Débito](Product_catalog.md#cartao-de-debito) — Volume de mercado: R$ 484,8 bilhões (ABECS, 1º sem/2025)
+- [Cartão de Crédito Internacional](Product_catalog.md#cartao-de-credito-internacional) — Volume de mercado: R$ 1,5 trilhão (ABECS, 1º sem/2025)
+- [Cartão Gold](Product_catalog.md#cartao-gold) — Volume de mercado: N/D
+- [Cartão Platinum](Product_catalog.md#cartao-platinum) — Volume de mercado: N/D
+- [Cartão Black/Infinite](Product_catalog.md#cartao-blackinfinite) — Volume de mercado: N/D
+- [Cartão Empresarial (Business)](Product_catalog.md#cartao-empresarial-business) — Volume de mercado: N/D
+- [Cartão Corporate (T\&E)](Product_catalog.md#cartao-corporate-te) — Volume de mercado: N/D
+- [Cartão Pré‑pago](Product_catalog.md#cartao-pre-pago) — Volume de mercado: R$ 190,1 bilhões (ABECS, 1º sem/2025)
+- [Cartão Co‑branded/Private Label](Product_catalog.md#cartao-co-brandedprivate-label) — Volume de mercado: N/D
+- [Cartão Consignado](Product_catalog.md#cartao-consignado) — Volume de mercado: N/D
+- [Cartão com Garantia (Secured)](Product_catalog.md#cartao-com-garantia-secured) — Volume de mercado: N/D
+- [Cartão Adicional](Product_catalog.md#cartao-adicional) — Volume de mercado: N/D
+- [Cartão Virtual](Product_catalog.md#cartao-virtual) — Volume de mercado: N/D
+- [Cartão Multimoeda (Travel)](Product_catalog.md#cartao-multimoeda-travel) — Volume de mercado: N/D
+- [Parcelamento de Fatura](Product_catalog.md#parcelamento-de-fatura) — Volume de mercado: N/D
+- [Rotativo Gerenciado](Product_catalog.md#rotativo-gerenciado) — Volume de mercado: N/D
+- [Programa de Pontos/Milhas](Product_catalog.md#programa-de-pontosmilhas) — Volume de mercado: N/D
+- [Cashback](Product_catalog.md#cashback) — Volume de mercado: N/D
+- [Proteção de Compra/Preço](Product_catalog.md#protecao-de-comprapreco) — Volume de mercado: N/D
+- [Limite Garantido por CDB](Product_catalog.md#limite-garantido-por-cdb) — Volume de mercado: R$ 2,6 trilhões (B3, jun/2025)
+- [Empréstimo Pessoal](Product_catalog.md#emprestimo-pessoal) — Volume de mercado: N/D
+- [Consignado INSS](Product_catalog.md#consignado-inss) — Volume de mercado: N/D
+- [Consignado Privado](Product_catalog.md#consignado-privado) — Volume de mercado: N/D
+- [Cheque Especial (Overdraft)](Product_catalog.md#cheque-especial-overdraft) — Volume de mercado: N/D
+- [Parcelamento do Cheque Especial](Product_catalog.md#parcelamento-do-cheque-especial) — Volume de mercado: N/D
+- [Antecipação 13º Salário](Product_catalog.md#antecipacao-13o-salario) — Volume de mercado: N/D
+- [Antecipação Restituição IR](Product_catalog.md#antecipacao-restituicao-ir) — Volume de mercado: N/D
+- [Home Equity (Garantia de Imóvel)](Product_catalog.md#home-equity-garantia-de-imovel) — Volume de mercado: N/D
+- [Crédito com Garantia de Veículo](Product_catalog.md#credito-com-garantia-de-veiculo) — Volume de mercado: N/D
+- [Crédito com Garantia de Investimento](Product_catalog.md#credito-com-garantia-de-investimento) — Volume de mercado: N/D
+- [Financiamento de Veículos (CDC)](Product_catalog.md#financiamento-de-veiculos-cdc) — Volume de mercado: N/D
+- [Financiamento Imobiliário SFH](Product_catalog.md#financiamento-imobiliario-sfh) — Volume de mercado: N/D
+- [Financiamento Imobiliário SFI](Product_catalog.md#financiamento-imobiliario-sfi) — Volume de mercado: N/D
+- [Portabilidade de Crédito Imobiliário](Product_catalog.md#portabilidade-de-credito-imobiliario) — Volume de mercado: N/D
+- [Refinanciamento de Veículo](Product_catalog.md#refinanciamento-de-veiculo) — Volume de mercado: N/D
+- [Crediário/BNPL via Banco](Product_catalog.md#crediariobnpl-via-banco) — Volume de mercado: N/D
+- [Crédito Educacional](Product_catalog.md#credito-educacional) — Volume de mercado: N/D
+- [Microcrédito PF](Product_catalog.md#microcredito-pf) — Volume de mercado: N/D
+- [Capital de Giro](Product_catalog.md#capital-de-giro) — Volume de mercado: N/D
+- [Cheque Especial PJ](Product_catalog.md#cheque-especial-pj) — Volume de mercado: N/D
+- [Conta Garantida](Product_catalog.md#conta-garantida) — Volume de mercado: N/D
+- [Giro com Trava de Recebíveis](Product_catalog.md#giro-com-trava-de-recebiveis) — Volume de mercado: N/D
+- [Desconto de Duplicatas](Product_catalog.md#desconto-de-duplicatas) — Volume de mercado: N/D
+- [Antecipação de Recebíveis de Cartão](Product_catalog.md#antecipacao-de-recebiveis-de-cartao) — Volume de mercado: N/D
+- [NCE/CCE](Product_catalog.md#ncecce) — Volume de mercado: N/D
+- [BNDES FINAME (repasse)](Product_catalog.md#bndes-finame-repasse) — Volume de mercado: N/D
+- [BNDES Automático](Product_catalog.md#bndes-automatico) — Volume de mercado: N/D
+- [ACC (Adiantamento Contrato de Câmbio)](Product_catalog.md#acc-adiantamento-contrato-de-cambio) — Volume de mercado: N/D
+- [ACE (Adiantamento Cambiais Entregues)](Product_catalog.md#ace-adiantamento-cambiais-entregues) — Volume de mercado: N/D
+- [Financiamento Máquinas/Equipamentos](Product_catalog.md#financiamento-maquinasequipamentos) — Volume de mercado: N/D
+- [Financiamento de Veículos PJ](Product_catalog.md#financiamento-de-veiculos-pj) — Volume de mercado: N/D
+- [Crédito para Construção/Real Estate Corp](Product_catalog.md#credito-para-construcaoreal-estate-corp) — Volume de mercado: N/D
+- [Project Finance](Product_catalog.md#project-finance) — Volume de mercado: N/D
+- [Empréstimo Sindicalizado](Product_catalog.md#emprestimo-sindicalizado) — Volume de mercado: N/D
+- [Linha Revolving (Standby)](Product_catalog.md#linha-revolving-standby) — Volume de mercado: N/D
+- [Microcrédito Produtivo Orientado](Product_catalog.md#microcredito-produtivo-orientado) — Volume de mercado: N/D
+- [Carta de Crédito – Importação](Product_catalog.md#carta-de-credito-importacao) — Volume de mercado: N/D
+- [Carta de Crédito – Exportação](Product_catalog.md#carta-de-credito-exportacao) — Volume de mercado: N/D
+- [Cobrança Documentária](Product_catalog.md#cobranca-documentaria) — Volume de mercado: N/D
+- [Remessas Diretas (Clean)](Product_catalog.md#remessas-diretas-clean) — Volume de mercado: N/D
+- [Forfaiting](Product_catalog.md#forfaiting) — Volume de mercado: N/D
+- [Confirming (Reverse Factoring)](Product_catalog.md#confirming-reverse-factoring) — Volume de mercado: N/D
+- [Supply Chain Finance (SCF)](Product_catalog.md#supply-chain-finance-scf) — Volume de mercado: N/D
+- [Invoice Discounting Internacional](Product_catalog.md#invoice-discounting-internacional) — Volume de mercado: N/D
+- [Garantia – Bid Bond](Product_catalog.md#garantia-bid-bond) — Volume de mercado: N/D
+- [Garantia – Performance Bond](Product_catalog.md#garantia-performance-bond) — Volume de mercado: N/D
+- [Garantia – Advance Payment](Product_catalog.md#garantia-advance-payment) — Volume de mercado: N/D
+- [Garantia – Maintenance](Product_catalog.md#garantia-maintenance) — Volume de mercado: N/D
+- [Standby Letter of Credit (SBLC)](Product_catalog.md#standby-letter-of-credit-sblc) — Volume de mercado: N/D
+- [Aval em Títulos](Product_catalog.md#aval-em-titulos) — Volume de mercado: N/D
+- [Seguro Garantia (via banco)](Product_catalog.md#seguro-garantia-via-banco) — Volume de mercado: N/D
+- [Trade Loans (Pós‑Shipment)](Product_catalog.md#trade-loans-pos-shipment) — Volume de mercado: R$ 2,2 trilhões — adquirência (ABECS, 1º sem/2025)
+- [Folha de Pagamento (Payroll)](Product_catalog.md#folha-de-pagamento-payroll) — Volume de mercado: N/D
+- [Gestão de Contas a Pagar (AP)](Product_catalog.md#gestao-de-contas-a-pagar-ap) — Volume de mercado: N/D
+- [Gestão de Contas a Receber (AR)](Product_catalog.md#gestao-de-contas-a-receber-ar) — Volume de mercado: N/D
+- [Conciliação Bancária Automática](Product_catalog.md#conciliacao-bancaria-automatica) — Volume de mercado: N/D
+- [Extratos CNAB/EDI](Product_catalog.md#extratos-cnabedi) — Volume de mercado: N/D
+- [Lockbox](Product_catalog.md#lockbox) — Volume de mercado: N/D
+- [Varredura (Sweeping) de Contas](Product_catalog.md#varredura-sweeping-de-contas) — Volume de mercado: N/D
+- [Pooling de Caixa (Notional/Physical)](Product_catalog.md#pooling-de-caixa-notionalphysical) — Volume de mercado: N/D
+- [Pagamentos Massivos (Lotes)](Product_catalog.md#pagamentos-massivos-lotes) — Volume de mercado: N/D
+- [Split de Recebíveis Marketplace](Product_catalog.md#split-de-recebiveis-marketplace) — Volume de mercado: N/D
+- [Subadquirência (White‑label)](Product_catalog.md#subadquirencia-white-label) — Volume de mercado: R$ 2,2 trilhões — adquirência (ABECS, 1º sem/2025)
+- [POS – Aluguel/Comodato](Product_catalog.md#pos-aluguelcomodato) — Volume de mercado: R$ 2,2 trilhões — adquirência (ABECS, 1º sem/2025)
+- [Gateway de Pagamento Enterprise](Product_catalog.md#gateway-de-pagamento-enterprise) — Volume de mercado: R$ 2,2 trilhões — e-commerce com cartões (ABECS, 1º sem/2025)
+- [Antifraude Transacional](Product_catalog.md#antifraude-transacional) — Volume de mercado: R$ 2,2 trilhões — ecossistema de cartões (ABECS, 1º sem/2025)
+- [API Banking (Contas/Pagamentos)](Product_catalog.md#api-banking-contaspagamentos) — Volume de mercado: N/D
+- [Contas Virtuais (Virtual Accounts)](Product_catalog.md#contas-virtuais-virtual-accounts) — Volume de mercado: N/D
+- [Tesouro Selic](Product_catalog.md#tesouro-selic) — Volume de mercado: R$ 215,8 bilhões (ANBIMA, jun/2025)
+- [Tesouro Prefixado](Product_catalog.md#tesouro-prefixado) — Volume de mercado: R$ 215,8 bilhões (ANBIMA, jun/2025)
+- [Tesouro IPCA+](Product_catalog.md#tesouro-ipca) — Volume de mercado: R$ 215,8 bilhões (ANBIMA, jun/2025)
+- [CDB Pós‑CDI](Product_catalog.md#cdb-pos-cdi-1) — Volume de mercado: R$ 2,6 trilhões (B3, jun/2025)
+- [CDB Prefixado](Product_catalog.md#cdb-prefixado-1) — Volume de mercado: R$ 2,6 trilhões (B3, jun/2025)
+- [CDB Escalonado](Product_catalog.md#cdb-escalonado-1) — Volume de mercado: R$ 2,6 trilhões (B3, jun/2025)
+- [LCI](Product_catalog.md#lci-1) — Volume de mercado: R$ 454 bilhões (B3, jun/2025)
+- [LCA](Product_catalog.md#lca-1) — Volume de mercado: R$ 588 bilhões (B3, jun/2025)
+- [LC (Letra de Câmbio)](Product_catalog.md#lc-letra-de-cambio-1) — Volume de mercado: N/D
+- [Debêntures Simples](Product_catalog.md#debentures-simples) — Volume de mercado: R$ 1,3 trilhão (B3, jun/2025)
+- [Debêntures Incentivadas (Infra)](Product_catalog.md#debentures-incentivadas-infra) — Volume de mercado: R$ 1,3 trilhão (B3, jun/2025)
+- [CRA](Product_catalog.md#cra) — Volume de mercado: R$ 159 bilhões (B3, jun/2025)
+- [CRI](Product_catalog.md#cri) — Volume de mercado: R$ 239 bilhões (B3, jun/2025)
+- [Letras Financeiras (LF)](Product_catalog.md#letras-financeiras-lf) — Volume de mercado: R$ 890,5 bilhões (B3, jun/2025)
+- [DPGE](Product_catalog.md#dpge) — Volume de mercado: N/D
+- [Nota Promissória Comercial](Product_catalog.md#nota-promissoria-comercial) — Volume de mercado: N/D
+- [Fundo DI](Product_catalog.md#fundo-di) — Volume de mercado: R$ 697,3 bilhões (B3, jun/2025)
+- [Fundo RF Crédito Privado](Product_catalog.md#fundo-rf-credito-privado) — Volume de mercado: N/D
+- [Fundo Multimercado Macro](Product_catalog.md#fundo-multimercado-macro) — Volume de mercado: N/D
+- [Fundo Long & Short Neutro](Product_catalog.md#fundo-long-short-neutro) — Volume de mercado: N/D
+- [Fundo Cambial Dólar](Product_catalog.md#fundo-cambial-dolar) — Volume de mercado: N/D
+- [Fundo de Ações Ibovespa Ativo](Product_catalog.md#fundo-de-acoes-ibovespa-ativo) — Volume de mercado: R$ 235,9 bilhões (ANBIMA, jun/2025)
+- [Fundo de Ações Dividendos](Product_catalog.md#fundo-de-acoes-dividendos) — Volume de mercado: R$ 235,9 bilhões (ANBIMA, jun/2025)
+- [Fundo Small Caps](Product_catalog.md#fundo-small-caps) — Volume de mercado: N/D
+- [Fundo Setorial (Infra/Utilidades)](Product_catalog.md#fundo-setorial-infrautilidades) — Volume de mercado: N/D
+- [Fundo Quantitativo](Product_catalog.md#fundo-quantitativo) — Volume de mercado: N/D
+- [Fundo ESG](Product_catalog.md#fundo-esg) — Volume de mercado: N/D
+- [Fundo Internacional Global Equity](Product_catalog.md#fundo-internacional-global-equity) — Volume de mercado: N/D
+- [Fundo Multimercado com Proteção](Product_catalog.md#fundo-multimercado-com-protecao) — Volume de mercado: N/D
+- [ETF Ibovespa (ex. BOVA11)](Product_catalog.md#etf-ibovespa-ex-bova11) — Volume de mercado: N/D
+- [ETF S\&P 500 (ex. IVVB11)](Product_catalog.md#etf-sp-500-ex-ivvb11) — Volume de mercado: N/D
+- [ETF de Renda Fixa](Product_catalog.md#etf-de-renda-fixa) — Volume de mercado: N/D
+- [ETF Setorial/Temático](Product_catalog.md#etf-setorialtematico) — Volume de mercado: N/D
+- [FII – Tijolo](Product_catalog.md#fii-tijolo) — Volume de mercado: R$ 112,1 bilhões (ANBIMA, jun/2025)
+- [FII – Papel](Product_catalog.md#fii-papel) — Volume de mercado: R$ 112,1 bilhões (ANBIMA, jun/2025)
+- [FIDC](Product_catalog.md#fidc) — Volume de mercado: R$ 35,2 bilhões (ANBIMA, jun/2025)
+- [COE – Autocallable](Product_catalog.md#coe-autocallable) — Volume de mercado: N/D
+- [COE – Twin Win](Product_catalog.md#coe-twin-win) — Volume de mercado: N/D
+- [COE – Capital Protegido (Moeda)](Product_catalog.md#coe-capital-protegido-moeda) — Volume de mercado: N/D
+- [Fundo Previdenciário (Estrutura Master‑Feeder)](Product_catalog.md#fundo-previdenciario-estrutura-master-feeder) — Volume de mercado: R$ 1,45 trilhão (ANBIMA, jun/2025)
+- [Conta de Corretora / Home Broker](Product_catalog.md#conta-de-corretora-home-broker) — Volume de mercado: N/D
+- [Custódia de Ativos](Product_catalog.md#custodia-de-ativos) — Volume de mercado: N/D
+- [Aluguel de Ações (SLB)](Product_catalog.md#aluguel-de-acoes-slb) — Volume de mercado: N/D
+- [Margem para Operações](Product_catalog.md#margem-para-operacoes) — Volume de mercado: N/D
+- [Negociação de Opções](Product_catalog.md#negociacao-de-opcoes) — Volume de mercado: N/D
+- [Acesso a Futuros (BM\&F)](Product_catalog.md#acesso-a-futuros-bmf) — Volume de mercado: N/D
+- [Mesa de Operações Estruturadas](Product_catalog.md#mesa-de-operacoes-estruturadas) — Volume de mercado: N/D
+- [Carteira Administrada (DPM)](Product_catalog.md#carteira-administrada-dpm) — Volume de mercado: N/D
+- [Advisory de Investimentos](Product_catalog.md#advisory-de-investimentos) — Volume de mercado: N/D
+- [Family Office](Product_catalog.md#family-office) — Volume de mercado: N/D
+- [Acesso Offshore](Product_catalog.md#acesso-offshore) — Volume de mercado: N/D
+- [Planejamento Sucessório](Product_catalog.md#planejamento-sucessorio) — Volume de mercado: N/D
+- [Seguro de Vida Temporário](Product_catalog.md#seguro-de-vida-temporario) — Volume de mercado: N/D
+- [Seguro de Vida Resgatável](Product_catalog.md#seguro-de-vida-resgatavel) — Volume de mercado: N/D
+- [Seguro Doenças Graves](Product_catalog.md#seguro-doencas-graves) — Volume de mercado: N/D
+- [Acidentes Pessoais](Product_catalog.md#acidentes-pessoais) — Volume de mercado: N/D
+- [Seguro Prestamista (Credit Life)](Product_catalog.md#seguro-prestamista-credit-life) — Volume de mercado: N/D
+- [Proteção Financeira/Perda de Renda](Product_catalog.md#protecao-financeiraperda-de-renda) — Volume de mercado: N/D
+- [Seguro Residencial](Product_catalog.md#seguro-residencial) — Volume de mercado: N/D
+- [Seguro Condomínio](Product_catalog.md#seguro-condominio) — Volume de mercado: N/D
+- [Seguro Empresarial (Multirrisco)](Product_catalog.md#seguro-empresarial-multirrisco) — Volume de mercado: N/D
+- [Seguro Automóvel](Product_catalog.md#seguro-automovel) — Volume de mercado: N/D
+- [Seguro Frotas](Product_catalog.md#seguro-frotas) — Volume de mercado: N/D
+- [Seguro Viagem](Product_catalog.md#seguro-viagem) — Volume de mercado: N/D
+- [Seguro Cartão (Compra Protegida)](Product_catalog.md#seguro-cartao-compra-protegida) — Volume de mercado: N/D
+- [Garantia Estendida](Product_catalog.md#garantia-estendida) — Volume de mercado: N/D
+- [Seguro Celular/Portáteis](Product_catalog.md#seguro-celularportateis) — Volume de mercado: N/D
+- [Seguro Cibernético PME](Product_catalog.md#seguro-cibernetico-pme) — Volume de mercado: N/D
+- [D\&O (Directors & Officers)](Product_catalog.md#do-directors-officers) — Volume de mercado: N/D
+- [E\&O (Responsabilidade Profissional)](Product_catalog.md#eo-responsabilidade-profissional) — Volume de mercado: N/D
+- [Seguro Garantia (Surety)](Product_catalog.md#seguro-garantia-surety) — Volume de mercado: N/D
+- [Seguro Rural/Agrícola](Product_catalog.md#seguro-ruralagricola) — Volume de mercado: N/D
+- [Saúde Coletivo (parceria)](Product_catalog.md#saude-coletivo-parceria) — Volume de mercado: N/D
+- [Dental Coletivo](Product_catalog.md#dental-coletivo) — Volume de mercado: N/D
+- [Seguro Transporte (Carga)](Product_catalog.md#seguro-transporte-carga) — Volume de mercado: N/D
+- [Seguro Pet](Product_catalog.md#seguro-pet) — Volume de mercado: N/D
+- [Câmbio Turismo (Espécie)](Product_catalog.md#cambio-turismo-especie) — Volume de mercado: N/D
+- [Cartão Viagem Multimoeda](Product_catalog.md#cartao-viagem-multimoeda) — Volume de mercado: N/D
+- [Remessa Internacional PF (Envio)](Product_catalog.md#remessa-internacional-pf-envio) — Volume de mercado: N/D
+- [Remessa Internacional PJ (Envio)](Product_catalog.md#remessa-internacional-pj-envio) — Volume de mercado: N/D
+- [Recebimento do Exterior (Wire In)](Product_catalog.md#recebimento-do-exterior-wire-in) — Volume de mercado: N/D
+- [Contrato de Câmbio Pronto](Product_catalog.md#contrato-de-cambio-pronto) — Volume de mercado: N/D
+- [NDF (Câmbio Futuro)](Product_catalog.md#ndf-cambio-futuro) — Volume de mercado: N/D
+- [Swap Cambial](Product_catalog.md#swap-cambial) — Volume de mercado: N/D
+- [Opções de Moeda (Vanilla)](Product_catalog.md#opcoes-de-moeda-vanilla) — Volume de mercado: N/D
+- [Pagamentos Globais Massivos](Product_catalog.md#pagamentos-globais-massivos) — Volume de mercado: N/D
+- [Hedge de Importação](Product_catalog.md#hedge-de-importacao) — Volume de mercado: N/D
+- [Hedge de Exportação](Product_catalog.md#hedge-de-exportacao) — Volume de mercado: N/D
+- [Consórcio Imobiliário](Product_catalog.md#consorcio-imobiliario) — Volume de mercado: N/D
+- [Consórcio Automóvel](Product_catalog.md#consorcio-automovel) — Volume de mercado: N/D
+- [Consórcio Motos](Product_catalog.md#consorcio-motos) — Volume de mercado: N/D
+- [Consórcio Caminhões/Máquinas](Product_catalog.md#consorcio-caminhoesmaquinas) — Volume de mercado: N/D
+- [Consórcio Serviços](Product_catalog.md#consorcio-servicos) — Volume de mercado: N/D
+- [Consórcio Náutico](Product_catalog.md#consorcio-nautico) — Volume de mercado: N/D
+- [PGBL – Renda Fixa](Product_catalog.md#pgbl-renda-fixa) — Volume de mercado: R$ 1,45 trilhão (ANBIMA, jun/2025)
+- [PGBL – Multimercado](Product_catalog.md#pgbl-multimercado) — Volume de mercado: R$ 1,45 trilhão (ANBIMA, jun/2025)
+- [PGBL – Ações](Product_catalog.md#pgbl-acoes) — Volume de mercado: R$ 1,45 trilhão (ANBIMA, jun/2025)
+- [VGBL – Renda Fixa](Product_catalog.md#vgbl-renda-fixa) — Volume de mercado: R$ 1,45 trilhão (ANBIMA, jun/2025)
+- [VGBL – Multimercado](Product_catalog.md#vgbl-multimercado) — Volume de mercado: R$ 1,45 trilhão (ANBIMA, jun/2025)
+- [VGBL – Ações](Product_catalog.md#vgbl-acoes) — Volume de mercado: R$ 1,45 trilhão (ANBIMA, jun/2025)
+- [Previdência Empresarial (Patrocinada)](Product_catalog.md#previdencia-empresarial-patrocinada) — Volume de mercado: R$ 1,45 trilhão (ANBIMA, jun/2025)
+- [Previdência sob Medida (Fundo Exclusivo)](Product_catalog.md#previdencia-sob-medida-fundo-exclusivo) — Volume de mercado: R$ 1,45 trilhão (ANBIMA, jun/2025)
+- [M\&A Advisory](Product_catalog.md#ma-advisory) — Volume de mercado: N/D
+- [Underwriting – Debêntures (DCM)](Product_catalog.md#underwriting-debentures-dcm) — Volume de mercado: R$ 1,3 trilhão (B3, jun/2025)
+- [Underwriting – Ações/Follow‑on (ECM)](Product_catalog.md#underwriting-acoesfollow-on-ecm) — Volume de mercado: N/D
+- [Coordenação de IPO](Product_catalog.md#coordenacao-de-ipo) — Volume de mercado: N/D
+- [Securitização (CRI/CRA/FIDC)](Product_catalog.md#securitizacao-cricrafidc) — Volume de mercado: R$ 239 bilhões (B3, jun/2025)
+- [Project Finance (Estruturação)](Product_catalog.md#project-finance-estruturacao) — Volume de mercado: N/D
+- [Syndicated Loans (Coordenação)](Product_catalog.md#syndicated-loans-coordenacao) — Volume de mercado: N/D
+- [Private Placements](Product_catalog.md#private-placements) — Volume de mercado: N/D
+- [Emissão de Letras Financeiras p/ Clientes](Product_catalog.md#emissao-de-letras-financeiras-p-clientes) — Volume de mercado: N/D
+- [Derivativos de Taxa de Juros (IRS)](Product_catalog.md#derivativos-de-taxa-de-juros-irs) — Volume de mercado: N/D
+- [Hedge de Commodities](Product_catalog.md#hedge-de-commodities) — Volume de mercado: N/D
+- [Structured Notes Corporativas](Product_catalog.md#structured-notes-corporativas) — Volume de mercado: N/D
+- [Cesta de Serviços Essencial PF](Product_catalog.md#cesta-de-servicos-essencial-pf) — Volume de mercado: N/D
+- [Cesta de Serviços Especial PF](Product_catalog.md#cesta-de-servicos-especial-pf) — Volume de mercado: N/D
+- [Cesta de Serviços PJ](Product_catalog.md#cesta-de-servicos-pj) — Volume de mercado: N/D
+- [Alertas e Notificações (SMS/App)](Product_catalog.md#alertas-e-notificacoes-smsapp) — Volume de mercado: N/D
+- [Gerenciador Financeiro Pessoal (PFM)](Product_catalog.md#gerenciador-financeiro-pessoal-pfm) — Volume de mercado: N/D
+- [Disputa/Chargeback Cartões](Product_catalog.md#disputachargeback-cartoes) — Volume de mercado: N/D
+- [Token Físico (Chave de Segurança)](Product_catalog.md#token-fisico-chave-de-seguranca) — Volume de mercado: N/D
+- [Cofre Digital de Documentos](Product_catalog.md#cofre-digital-de-documentos) — Volume de mercado: N/D
+- [Portal Open Finance – Consentimentos](Product_catalog.md#portal-open-finance-consentimentos) — Volume de mercado: N/D
+- [API Pix para PJ](Product_catalog.md#api-pix-para-pj) — Volume de mercado: ≈ R$ 16 trilhões (BCB, 1º sem/2025)
+- [API de Dados de Conta/Transações](Product_catalog.md#api-de-dados-de-contatransacoes) — Volume de mercado: N/D
+- [Onboarding Digital KYC/KYB](Product_catalog.md#onboarding-digital-kyckyb) — Volume de mercado: N/D
+- [Educação/Score Financeiro](Product_catalog.md#educacaoscore-financeiro) — Volume de mercado: N/D
+- [Atendimento Priority/Concierge](Product_catalog.md#atendimento-priorityconcierge) — Volume de mercado: N/D
+- [Custódia Fria Segregada (PF/Wealth)](Product_catalog.md#custodia-fria-segregada-pfwealth) — Volume de mercado: N/D
+- [Custódia Fria Segregada (Institucional)](Product_catalog.md#custodia-fria-segregada-institucional) — Volume de mercado: N/D
+- [Custódia MPC (Multi‑Party Computation)](Product_catalog.md#custodia-mpc-multi-party-computation) — Volume de mercado: N/D
+- [Custódia com Staking (ETH/SOL)](Product_catalog.md#custodia-com-staking-ethsol) — Volume de mercado: N/D
+- [Custódia com Seguro (Crime/Specie)](Product_catalog.md#custodia-com-seguro-crimespecie) — Volume de mercado: N/D
+- [Custódia Off‑Exchange (Tri‑party)](Product_catalog.md#custodia-off-exchange-tri-party) — Volume de mercado: N/D
+- [Custódia de Stablecoins](Product_catalog.md#custodia-de-stablecoins) — Volume de mercado: N/D
+- [Custódia de Deposit Tokens](Product_catalog.md#custodia-de-deposit-tokens) — Volume de mercado: R$ 2,2 trilhões — adquirência (ABECS, 1º sem/2025)
+- [Custódia de Tokens de T‑bills](Product_catalog.md#custodia-de-tokens-de-t-bills) — Volume de mercado: N/D
+- [Escrow On‑chain](Product_catalog.md#escrow-on-chain) — Volume de mercado: N/D
+- [On‑ramp bancário (spot)](Product_catalog.md#on-ramp-bancario-spot) — Volume de mercado: N/D
+- [Distribuição ETFs BTC (EUA)](Product_catalog.md#distribuicao-etfs-btc-eua) — Volume de mercado: N/D
+- [Distribuição ETFs ETH (EUA)](Product_catalog.md#distribuicao-etfs-eth-eua) — Volume de mercado: N/D
+- [Distribuição ETPs (Europa)](Product_catalog.md#distribuicao-etps-europa) — Volume de mercado: N/D
+- [Fundos de Fundos Cripto](Product_catalog.md#fundos-de-fundos-cripto) — Volume de mercado: R$ 1,83 trilhão (ANBIMA, jun/2025)
+- [Índices/Baskets (BTC+ETH)](Product_catalog.md#indicesbaskets-btceth) — Volume de mercado: N/D
+- [ETFs de Miners/Infra](Product_catalog.md#etfs-de-minersinfra) — Volume de mercado: N/D
+- [Notas Privadas 144A/Reg S](Product_catalog.md#notas-privadas-144areg-s) — Volume de mercado: N/D
+- [Advisory & Research](Product_catalog.md#advisory-research) — Volume de mercado: N/D
+- [Tax/Lot & Consolidação](Product_catalog.md#taxlot-consolidacao) — Volume de mercado: N/D
+- [DCA Programado](Product_catalog.md#dca-programado) — Volume de mercado: N/D
+- [OTC Spot (Mesa)](Product_catalog.md#otc-spot-mesa) — Volume de mercado: N/D
+- [Lombard vs BTC](Product_catalog.md#lombard-vs-btc) — Volume de mercado: N/D
+- [Lombard vs ETH](Product_catalog.md#lombard-vs-eth) — Volume de mercado: N/D
+- [Lombard vs Staked ETH](Product_catalog.md#lombard-vs-staked-eth) — Volume de mercado: N/D
+- [Lombard vs SOL/XRP](Product_catalog.md#lombard-vs-solxrp) — Volume de mercado: N/D
+- [Microcrédito Colateralizado](Product_catalog.md#microcredito-colateralizado) — Volume de mercado: N/D
+- [Overdraft Garantido (Cripto)](Product_catalog.md#overdraft-garantido-cripto) — Volume de mercado: N/D
+- [Financiamento com Recebíveis Tokenizados](Product_catalog.md#financiamento-com-recebiveis-tokenizados) — Volume de mercado: N/D
+- [Repo vs BTC/ETFs BTC](Product_catalog.md#repo-vs-btcetfs-btc) — Volume de mercado: N/D
+- [Trade Finance c/ Colateral Cripto](Product_catalog.md#trade-finance-c-colateral-cripto) — Volume de mercado: N/D
+- [SBL vs ETFs BTC/ETH](Product_catalog.md#sbl-vs-etfs-btceth) — Volume de mercado: N/D
+- [Inventário p/ Market‑Making](Product_catalog.md#inventario-p-market-making) — Volume de mercado: N/D
+- [Syndicated Loan c/ Colateral Cripto](Product_catalog.md#syndicated-loan-c-colateral-cripto) — Volume de mercado: N/D
+- [Futuros BTC (CME)](Product_catalog.md#futuros-btc-cme) — Volume de mercado: N/D
+- [Opções BTC (CME)](Product_catalog.md#opcoes-btc-cme) — Volume de mercado: N/D
+- [Futuros ETH (CME)](Product_catalog.md#futuros-eth-cme) — Volume de mercado: N/D
+- [Opções ETH (CME)](Product_catalog.md#opcoes-eth-cme) — Volume de mercado: N/D
+- [Futuros SOL (CME)](Product_catalog.md#futuros-sol-cme) — Volume de mercado: N/D
+- [Futuros XRP (CME)](Product_catalog.md#futuros-xrp-cme) — Volume de mercado: N/D
+- [NDF BTC (OTC)](Product_catalog.md#ndf-btc-otc) — Volume de mercado: N/D
+- [TRS BTC](Product_catalog.md#trs-btc) — Volume de mercado: N/D
+- [TRS ETH/Basket](Product_catalog.md#trs-ethbasket) — Volume de mercado: N/D
+- [Swap de Volatilidade](Product_catalog.md#swap-de-volatilidade) — Volume de mercado: N/D
+- [IRS Staking Yield (ETH)](Product_catalog.md#irs-staking-yield-eth) — Volume de mercado: N/D
+- [Opções OTC Exóticas](Product_catalog.md#opcoes-otc-exoticas) — Volume de mercado: N/D
+- [Hedge Basis (BTIC)](Product_catalog.md#hedge-basis-btic) — Volume de mercado: N/D
+- [Swaps USD‑Stablecoin](Product_catalog.md#swaps-usd-stablecoin) — Volume de mercado: N/D
+- [Forwards On‑chain](Product_catalog.md#forwards-on-chain) — Volume de mercado: N/D
+- [Opções Semanais (BTC/ETH)](Product_catalog.md#opcoes-semanais-btceth) — Volume de mercado: N/D
+- [Calendar/Diagonal Spreads](Product_catalog.md#calendardiagonal-spreads) — Volume de mercado: N/D
+- [Protective Puts](Product_catalog.md#protective-puts) — Volume de mercado: N/D
+- [Covered Calls](Product_catalog.md#covered-calls) — Volume de mercado: N/D
+- [Quanto Swaps (BTC‑USD/BRL)](Product_catalog.md#quanto-swaps-btc-usdbrl) — Volume de mercado: N/D
+- [Capital Protegido BTC (Bond+Call)](Product_catalog.md#capital-protegido-btc-bondcall) — Volume de mercado: N/D
+- [Capital Protegido ETH](Product_catalog.md#capital-protegido-eth) — Volume de mercado: N/D
+- [Autocallable BTC (Phoenix)](Product_catalog.md#autocallable-btc-phoenix) — Volume de mercado: N/D
+- [Autocallable ETH](Product_catalog.md#autocallable-eth) — Volume de mercado: N/D
+- [Barrier Reverse Convertible BTC](Product_catalog.md#barrier-reverse-convertible-btc) — Volume de mercado: N/D
+- [Dual Currency BTC/USDC](Product_catalog.md#dual-currency-btcusdc) — Volume de mercado: N/D
+- [Dual Currency ETH/USDC](Product_catalog.md#dual-currency-ethusdc) — Volume de mercado: N/D
+- [Range Accrual BTC](Product_catalog.md#range-accrual-btc) — Volume de mercado: N/D
+- [Twin‑Win BTC](Product_catalog.md#twin-win-btc) — Volume de mercado: N/D
+- [COE Multi‑Ativos (BTC+ETH+Ouro)](Product_catalog.md#coe-multi-ativos-btcethouro) — Volume de mercado: N/D
+- [Structured Note Tokenizada (ETH)](Product_catalog.md#structured-note-tokenizada-eth) — Volume de mercado: N/D
+- [CLN Miners/Exchanges](Product_catalog.md#cln-minersexchanges) — Volume de mercado: N/D
+- [Proteção Parcial (95%)](Product_catalog.md#protecao-parcial-95) — Volume de mercado: N/D
+- [Indexadas à Vol (BTC)](Product_catalog.md#indexadas-a-vol-btc) — Volume de mercado: N/D
+- [Basket c/ Rebalance](Product_catalog.md#basket-c-rebalance) — Volume de mercado: N/D
+- [Cupom de Staking (ETH)](Product_catalog.md#cupom-de-staking-eth) — Volume de mercado: N/D
+- [Conta PJ em Stablecoin](Product_catalog.md#conta-pj-em-stablecoin) — Volume de mercado: N/D
+- [Cross‑border em Stablecoin](Product_catalog.md#cross-border-em-stablecoin) — Volume de mercado: N/D
+- [Cash Sweep p/ Stablecoin](Product_catalog.md#cash-sweep-p-stablecoin) — Volume de mercado: N/D
+- [Deposit Tokens (JPMD/Citi)](Product_catalog.md#deposit-tokens-jpmdciti) — Volume de mercado: R$ 2,2 trilhões — adquirência (ABECS, 1º sem/2025)
+- [Escrow Supply Chain](Product_catalog.md#escrow-supply-chain) — Volume de mercado: N/D
+- [Folha/Provisões em Stablecoin](Product_catalog.md#folhaprovisoes-em-stablecoin) — Volume de mercado: N/D
+- [Settlement Merchant em Stablecoin](Product_catalog.md#settlement-merchant-em-stablecoin) — Volume de mercado: N/D
+- [FX on‑chain (USD–BRL)](Product_catalog.md#fx-on-chain-usd-brl) — Volume de mercado: N/D
+- [Open Finance \+ Cripto](Product_catalog.md#open-finance-cripto) — Volume de mercado: N/D
+- [NF/Comprovantes on‑chain](Product_catalog.md#nfcomprovantes-on-chain) — Volume de mercado: N/D
+- [Citi Token Services (Cash)](Product_catalog.md#citi-token-services-cash) — Volume de mercado: N/D
+- [Stablecoin Bancária (EURCV/USDCV)](Product_catalog.md#stablecoin-bancaria-eurcvusdcv) — Volume de mercado: N/D
+- [Pagamentos com Deposit Token \+ FX](Product_catalog.md#pagamentos-com-deposit-token-fx) — Volume de mercado: R$ 2,2 trilhões — adquirência (ABECS, 1º sem/2025)
+- [Treasury Dashboard On‑chain](Product_catalog.md#treasury-dashboard-on-chain) — Volume de mercado: N/D
+- [Prime Brokerage Cripto](Product_catalog.md#prime-brokerage-cripto) — Volume de mercado: N/D
+- [Liquidez Multi‑Venue](Product_catalog.md#liquidez-multi-venue) — Volume de mercado: N/D
+- [Tri‑party Collateral Mgmt](Product_catalog.md#tri-party-collateral-mgmt) — Volume de mercado: N/D
+- [Risco & Travel Rule](Product_catalog.md#risco-travel-rule) — Volume de mercado: N/D
+- [Settlement DVP on‑chain](Product_catalog.md#settlement-dvp-on-chain) — Volume de mercado: N/D
+- [Controle de Rehipoteca](Product_catalog.md#controle-de-rehipoteca) — Volume de mercado: N/D
+- [Proof‑of‑Reserves (PoR)](Product_catalog.md#proof-of-reserves-por) — Volume de mercado: N/D
+- [Lend/Borrow de Ativos](Product_catalog.md#lendborrow-de-ativos) — Volume de mercado: N/D
+- [Distribuição de T‑Bills Tokenizados](Product_catalog.md#distribuicao-de-t-bills-tokenizados) — Volume de mercado: N/D
+- [Securitização de Recebíveis](Product_catalog.md#securitizacao-de-recebiveis) — Volume de mercado: N/D
+- [Tokenização de Dívida Corp.](Product_catalog.md#tokenizacao-de-divida-corp) — Volume de mercado: N/D
+- [Equity Privado Tokenizado](Product_catalog.md#equity-privado-tokenizado) — Volume de mercado: N/D
+- [Fundos Tokenizados](Product_catalog.md#fundos-tokenizados) — Volume de mercado: R$ 1,83 trilhão (ANBIMA, jun/2025)
+- [Imobiliário Tokenizado](Product_catalog.md#imobiliario-tokenizado) — Volume de mercado: N/D
+- [Notas Estruturadas Tokenizadas](Product_catalog.md#notas-estruturadas-tokenizadas) — Volume de mercado: N/D
+- [Programa de Stablecoin Bancária](Product_catalog.md#programa-de-stablecoin-bancaria) — Volume de mercado: N/D
+- [Achados (deep-dive)](Product_catalog.md#achados-deep-dive) — Volume de mercado: N/D
+- [Deduplicação “soft” (com alias, sem excluir)](Product_catalog.md#deduplicacao-soft-com-alias-sem-excluir) — Volume de mercado: N/D
+- [Subfamília — Heurística (Crypto)](Product_catalog.md#subfamilia-heuristica-crypto) — Volume de mercado: N/D
+- [Mapeamento para colunas auxiliares (overlay)](Product_catalog.md#mapeamento-para-colunas-auxiliares-overlay) — Volume de mercado: N/D
+- [Especificações (YAML)](Product_catalog.md#especificacoes-yaml) — Volume de mercado: N/D
+- [SQL (DDL de referência)](Product_catalog.md#sql-ddl-de-referencia) — Volume de mercado: N/D
