@@ -8,6 +8,9 @@
 - ADRs (pasta): ../adr/
 - CHANGELOG: ../CHANGELOG.md
 - README (visão geral): ../README.md
+- [Product Catalog](/docs/product_catalog.md)
+- [Product Index](/docs/product_index.md)
+- [QA Guide — Mona Lisa](/docs/qa/mona_lisa_qa_guide.md)
 
 ## ADRs (índice)
 - ../adr/ADR-001_SLA_default_le6h.md
